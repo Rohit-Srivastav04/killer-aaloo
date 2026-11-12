@@ -1,0 +1,40 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "KILLER AALOO",
+      "hasCanvas": true,
+      "bodyTextLen": 138,
+      "bodyTextHash": "41dee8393b2082e817e6374bb016a37761436ff58bc9aa6064e54c9a1bdcfd45",
+      "bodyTextPrefix": "Killer Aaloo KILLER AALOO FACTORY RAID · 0/30 COINS 0 SCORE 0 KI",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "KILLER AALOO",
+      "hasCanvas": true,
+      "bodyTextLen": 138,
+      "bodyTextHash": "41dee8393b2082e817e6374bb016a37761436ff58bc9aa6064e54c9a1bdcfd45",
+      "bodyTextPrefix": "Killer Aaloo KILLER AALOO FACTORY RAID · 0/30 COINS 0 SCORE 0 KI",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "mobile: body text changed (170 -> 138 chars, hash mismatch)"
+  ]
+}

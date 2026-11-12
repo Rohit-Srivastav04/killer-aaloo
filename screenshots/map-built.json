@@ -1,0 +1,40 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "BEAN OPS: SHADOW STRIKE",
+      "hasCanvas": true,
+      "bodyTextLen": 278,
+      "bodyTextHash": "452df1cb857cd8382852c93a3961bbd42f6cf1c688ec1d31767f009b79e05b8b",
+      "bodyTextPrefix": "2D RUN AND GUN BEAN OPS SHADOW STRIKE Play drops you into the ne",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/map-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "BEAN OPS: SHADOW STRIKE",
+      "hasCanvas": true,
+      "bodyTextLen": 278,
+      "bodyTextHash": "452df1cb857cd8382852c93a3961bbd42f6cf1c688ec1d31767f009b79e05b8b",
+      "bodyTextPrefix": "2D RUN AND GUN BEAN OPS SHADOW STRIKE Play drops you into the ne",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/map-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/map-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "mobile: body text changed (310 -> 278 chars, hash mismatch)"
+  ]
+}

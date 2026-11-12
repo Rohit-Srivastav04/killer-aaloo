@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "BEAN OPS: SHADOW STRIKE",
+      "hasCanvas": true,
+      "bodyTextLen": 278,
+      "bodyTextHash": "452df1cb857cd8382852c93a3961bbd42f6cf1c688ec1d31767f009b79e05b8b",
+      "bodyTextPrefix": "2D RUN AND GUN BEAN OPS SHADOW STRIKE Play drops you into the ne",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/feel-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "BEAN OPS: SHADOW STRIKE",
+      "hasCanvas": true,
+      "bodyTextLen": 310,
+      "bodyTextHash": "8dac92e613bdec722e1549235bf0a2fa85df13d8fa041565350d0681a087b2c2",
+      "bodyTextPrefix": "Turn sideways for the full raid 2D RUN AND GUN BEAN OPS SHADOW S",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/feel-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/feel-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
